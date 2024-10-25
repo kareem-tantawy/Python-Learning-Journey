@@ -6,7 +6,7 @@ msg = "Hello"
 name = "Kareem"
 print(msg + ' ' + name)
 
-print("************")+
+print("************")
 
 # Assigning the result to a variable
 total = msg + ' ' + name
