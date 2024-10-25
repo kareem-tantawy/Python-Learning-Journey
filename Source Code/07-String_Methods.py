@@ -112,7 +112,7 @@ print(msg2.index('P'))
 
 
 # find()
-msg2 = "I love to learn Python"
+msg2 = "I like to learn Python"
 print(msg2.find('P'))
 print(msg2.find('P', 3, 15))    # If not exist it thorws -1
 
