@@ -1,5 +1,5 @@
 # Guess The Number
-# You will have to guess a number from 0 to 10
+# You will have to guess a number from 1 to 10
 
 import random
 
